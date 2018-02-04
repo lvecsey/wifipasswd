@@ -1,0 +1,7 @@
+
+Generate an upper and lowercase password
+
+Certain hard to read characters are not included, but you can customize this.
+
+Defaults to length 12 password
+
